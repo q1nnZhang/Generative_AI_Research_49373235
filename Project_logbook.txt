@@ -1,0 +1,7 @@
+Project Logbook
+
+Line 1: This project studies whether generative AI tools are beneficial or harmful in research and learning.
+Line 2: Quantitative data will include survey responses and statistical analysis files.
+Line 3: Qualitative data will include interview transcripts and thematic analysis notes.
+Line 4: Sensitive participant data should be stored securely with restricted access.
+Line 5: GitHub will be used for version control, documentation, and collaboration.
